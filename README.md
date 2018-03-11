@@ -1,0 +1,2 @@
+# emaksakti
+Untuk percobaan saja
